@@ -1,7 +1,6 @@
 net.floodlightcontroller.core.internal.FloodlightProvider
 net.floodlightcontroller.storage.memory.MemoryStorageSource
 net.floodlightcontroller.flowcache.FlowReconcileManager
-net.floodlightcontroller.hub.Hub
 net.floodlightcontroller.jython.JythonDebugInterface
 net.floodlightcontroller.debugcounter.DebugCounterServiceImpl
 net.floodlightcontroller.threadpool.ThreadPool
@@ -30,3 +29,6 @@ net.floodlightcontroller.statistics.StatisticsCollector
 net.floodlightcontroller.routing.RoutingManager
 net.floodlightcontroller.cpanalyzer.CPAnalyzer
 net.floodlightcontroller.hasupport.HAController
+ net.floodlightcontroller.hubmaker.HubMaker
+ net.floodlightcontroller.mynewcode.LearningSwitch
+  net.floodlightcontroller.testdemo.copy.HubMaker
